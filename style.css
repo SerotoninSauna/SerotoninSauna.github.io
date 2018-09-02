@@ -5,6 +5,11 @@ body {
 
 .body-text {
 	margin: 10%;
+	font-size: 23px;
+}
+
+.small-text {
+	font-size: 12px;
 }
 
 .serotonin-logo {
