@@ -1,0 +1,35 @@
+body {
+	background-color: #333233;
+	font-family: 'Do Hyeon', sans-serif;
+}
+
+.body-text {
+	margin: 10%;
+	font-size: 23px;
+}
+
+.small-text {
+	font-size: 12px;
+}
+
+.serotonin-logo {
+	position: absolute;
+	right: 0px;
+	width: 100px;
+	height: auto;
+	margin-right: 10%;
+}
+
+.font-color-white {
+	color: #ffffff
+}
+
+.font-color-till {
+	color: #6bc285
+}
+
+footer {
+    text-align: right;
+	margin-top: 50px;
+	color: #454545;
+}
