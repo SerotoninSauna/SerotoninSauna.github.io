@@ -22,6 +22,11 @@ body {
 	height: 200px;
 }
 
+.instagram-logo {
+	width: 20px;
+	height: 20px;
+}
+
 .serotonin-logo {
 	float: right;
 	background-image: url('./resource/serotonin_logo.png');
