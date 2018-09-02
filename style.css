@@ -1,6 +1,10 @@
 body {
 	background-color: #333233;
-	font-family: 'Nanum Gothic', sans-serif;
+	font-family: 'Do Hyeon', sans-serif;
+}
+
+.main-container {
+	padding-bottom: 10%;
 }
 
 .body-text {
@@ -14,10 +18,14 @@ body {
 
 .serotonin-logo {
 	position: absolute;
+	background-image: url('./resource/serotonin_logo.png');
+	background-position: right;
+	background-repeat: no-repeat;
+	background-size: contain;
 	right: 0px;
-	width: 100px;
-	height: auto;
+	height: 200px;
 	margin-right: 10%;
+	margin-bottom: 10%;
 }
 
 .font-color-white {
@@ -29,7 +37,9 @@ body {
 }
 
 footer {
-    text-align: right;
+	position: absolute;
+	text-align: right;
 	margin-top: 50px;
 	color: #454545;
+	margin-bottom: 100px;
 }
