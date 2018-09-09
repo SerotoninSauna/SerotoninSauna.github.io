@@ -38,11 +38,15 @@ body {
 }
 
 .instagram-image {
-	background-image: url('./resource/instagram_logo.png');
+	background-image: url('./resource/instagram_logo_grayscale.png');
 }
 
 .soundcloud-image {
-	background-image: url('./resource/soundcloud_logo.png');
+	background-image: url('./resource/soundcloud_logo_grayscale.png');
+}
+
+.gmail-image {
+	background-image: url('./resource/gmail_logo_grayscale.png');
 }
 
 .serotonin-logo {
