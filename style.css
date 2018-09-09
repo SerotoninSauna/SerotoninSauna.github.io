@@ -22,9 +22,27 @@ body {
 	height: 200px;
 }
 
-.logo-image {
+.sns-wrapper {
+	width: 100%;
+	height: 20px;
+}
+
+.sns-image {
+	float: left;
+	margin: 5px;
 	width: 15px;
 	height: 15px;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: contain;
+}
+
+.instagram-image {
+	background-image: url('./resource/instagram_logo.png');
+}
+
+.soundcloud-image {
+	background-image: url('./resource/soundcloud_logo.png');
 }
 
 .serotonin-logo {
@@ -50,4 +68,10 @@ footer {
 	margin-top: 5%;
 	float: left;
 	color: #454545;
+}
+
+footer > p {
+	float: left;
+	width: 100%;
+	font-size: 10px
 }
