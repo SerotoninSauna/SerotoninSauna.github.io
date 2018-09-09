@@ -8,7 +8,7 @@ body {
 }
 
 .body-text {
-	margin: 10%;
+	margin: 8%;
 	font-size: 23px;
 }
 
@@ -18,7 +18,6 @@ body {
 
 .logo-wrapper {
 	float: left;
-	margin-top: 15%;
 	width: 100%;
 	height: 200px;
 }
@@ -36,7 +35,6 @@ body {
 	background-size: contain;
 	height: 200px;
 	margin-right: 10%;
-	margin-bottom: 10%;
 }
 
 .font-color-white {
@@ -49,7 +47,7 @@ body {
 
 footer {
 	width: 100%;
-	margin-top: 15%;
+	margin-top: 2%;
 	float: left;
 	color: #454545;
 }
